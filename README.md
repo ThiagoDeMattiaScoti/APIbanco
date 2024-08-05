@@ -18,3 +18,5 @@
 [V] Não deve ser possível fazer saque em uma conta não existente
 [V] Não deve ser possível exluir uma conta não existente
 [V] Não deve ser possível fazer saque quando saldo for insuficiente
+
+*É NESCESSÁRIO INSTALAR NODE_MODULES PARA RODAR A APLICAÇÃO*
